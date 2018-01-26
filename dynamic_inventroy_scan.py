@@ -23,7 +23,7 @@ def inventory():
         '_meta': {
             'hostvars': {
                 ip_address: {
-                    'ansible_ssh_user': 'pi',
+#                    'ansible_ssh_user': 'pi',
                 }
             },
         },
